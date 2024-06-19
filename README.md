@@ -19,14 +19,14 @@ This project implements a simple express server that servers http and websocket 
 3. **Setup backend server**
     ```bash
     $ cd API
-    $ npm i .
-    $ npm run dev .
+    $ npm i
+    $ npm run dev
     ```
 4. **Setup FrontEnd**
     ```bash
     $ cd FRONT
-    $ npm i .
-    $ npm start .
+    $ npm i
+    $ npm start
     ```
 3. **Configure .env and database:**
     * Duplicate sample.env to .env file.
