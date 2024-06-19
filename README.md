@@ -13,7 +13,7 @@ This project implements a simple express server that servers http and websocket 
 1. **Requirements:** NodeJs 18+
 2. **Clone Repository:**
     ```bash
-    $ git clone https://github.com/tilak-git/ChatApp.gitt
+    $ git clone https://github.com/tilak-git/ChatApp.git
     ```
     
 3. **Setup backend server**
